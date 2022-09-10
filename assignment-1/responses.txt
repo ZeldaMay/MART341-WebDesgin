@@ -1,5 +1,5 @@
-1. txt test
+1. Directories is the way we organize using a hierarchical structure, at the top would be the root directory.
 
-2. txt test 2
+2. VCS is useful for the fact that we are able to test that what we are doing is working, we have a free work space as well as allow us to get comfortable with standard industry tools.
 
-3. tex test 3
+3. My favorite artistic medium would be film, i enjoy when the scene, music and dialog all comes together to make a fantastic film
